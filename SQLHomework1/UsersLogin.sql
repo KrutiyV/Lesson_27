@@ -4,3 +4,4 @@ CREATE TABLE UsersLogin
     LoginName NVARCHAR(20),
     PasswordName CHAR(20)
 )
+--checked
